@@ -102,7 +102,7 @@ exec("bvfdhvdhvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcvsdgcdgsvsdghvsdghcvsdghsdghcxghv
 
 &nbsp;
 - 👨🏽‍💻 HELLO I'm MR.THENUX
-- 🤔 I’m looking for Knowledge
+- 🤔 I’m looking for New Hacking method
 - ⚡️ My Hobby is Programming
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: mrthenux@gmail.com
