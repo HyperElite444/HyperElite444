@@ -1,5 +1,5 @@
-<p align="center"><b><font size="50"> MR.THENUX ┃ HYPER ELITE444 ┃ SRILANKA<sup> LK</sup></font></b>
-<br/><br/><img src="images/mrthenux.jpg" width="50%"></p>
+<p align="center"><b><font size="100"> MR.THENUX ┃ HYPER ELITE444 ┃ SRILANKA<sup> LK</sup></font></b>
+<br/><br/><img src="images/mrthenux.jpg" width="40%"></p>
 
 	
 <!-- Code by Mr.Thenux -->
