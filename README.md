@@ -1,7 +1,8 @@
-<html lang="en">
-<p align="center"><b> MR.THENUX ┃ HYPER ELITE444 ┃ SRILANKA </b><br/><br/></p>
+<html>
+<p><b><font size="20"> MR.THENUX ┃ HYPER ELITE444 ┃ SRILANKA </b></p>
+<br/>
 	
-<-- Code by Mr.Thenux -->
+<!-- Code by Mr.Thenux -->
 	
 <p align="center">
 <a href="https://youtube.com/channel/UC2Nsn8q4MWE8pkDVsQcGsog"> <img title="YouTube" src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=Youtube"></a> 
