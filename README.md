@@ -1,4 +1,4 @@
-<p align="center"><b><font size="5" face="arial black"> MR.THENUX ┃ HYPER ELITE444 ┃ SRILANKA<sup> LK</sup></font></b>
+<p align="center"><b><font size="10%"> MR.THENUX ┃ HYPER ELITE444 ┃ SRILANKA<sup> LK</sup></font></b>
 <br/><br/><img src="images/mrthenux.jpg" width="40%"></p>
 
 	
