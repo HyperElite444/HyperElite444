@@ -10,6 +10,10 @@
 <a href="https://www.github.com/HyperElite444"> <img title="GITHUB" src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github"></a>
 <a href="https://www.instagram.com/thenux_modz/"> <img title="INSTAGRAM" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram"></a>
 </p>
+<br/>
+	<br/>
+	<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+	<br/>
 
 &nbsp;
 - 👨🏽‍💻 HELLO! I'm MR.THENUX.
@@ -27,9 +31,12 @@
 		<p align="center">
 <img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=HyperElite444&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></p>
 <p align="center">
-<a href="https://github.com/HyperElite444"><img title="THENUX MODz" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperElite444&layout=compact"></a></p>
+<a href="https://github.com/HyperElite444"><img title="HyperElite44" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperElite444&layout=compact"></a></p>
 </p>
 <br/>
+	<br/>
+	<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+	<br/>
  <footer>
     <p><a href="https://github.com/HyperElite444" alt="MR.THENUX"> <img src="https://img.shields.io/badge/Author-Mr.Thenux-success?style=flat&logo=github" /> </a>  
 	<p><img src="https://img.shields.io/badge/POWERED BY-2b2e4d?style=for-the-badge&logoColor=ff0000"><img title="mrhyper404" src="https://img.shields.io/badge/TX TECHSHOW-black?style=for-the-badge&logo=Hacker"></a></p>
