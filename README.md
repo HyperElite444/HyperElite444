@@ -34,6 +34,9 @@
 <a href="https://github.com/HyperElite444"><img title="HyperElite44" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperElite444&layout=compact"></a></p>
 </p>
 <br/>
+<br/>
+<br/>
+<br/>
 	<br/>
 	<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 	<br/>
