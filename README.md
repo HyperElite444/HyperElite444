@@ -1,6 +1,6 @@
 <!-- Code by Mr.Thenux -->
 
-<p align="center"><b><font size="100"> MR.THENUX ┃ HYPER ELITE444 ┃ SRI LANKA<sup> LK</sup></font></b>
+<p align="center"><b> MR.THENUX ┃ HYPER ELITE444 ┃ SRI LANKA<sup> LK</sup></b>
 <br/><br/>
 	<img src="images/mrthenux.jpg" width="40%"></p>
 	
@@ -42,5 +42,5 @@
 	<br/>
  <footer>
     <p><a href="https://github.com/HyperElite444" alt="MR.THENUX"> <img src="https://img.shields.io/badge/Author-Mr.Thenux-success?style=flat&logo=github" /> </a>  
-	<p><img src="https://img.shields.io/badge/POWERED BY-2b2e4d?style=for-the-badge&logoColor=ff0000"><img title="mrhyper404" src="https://img.shields.io/badge/TX TECHSHOW-black?style=for-the-badge&logo=Hacker"></a></p>
+	<p><a href="https://t.me/thenuxmods"><img src="https://img.shields.io/badge/POWERED BY-2b2e4d?style=for-the-badge&logoColor=ff0000"></a><a href="https://t.me/thenuxmods"><img src="https://img.shields.io/badge/TX TECHSHOW-black?style=for-the-badge&logo=Hacker"></a></p>
 </footer>
