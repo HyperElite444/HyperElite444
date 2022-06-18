@@ -1,5 +1,5 @@
-<p align="center"><b><font size="10%"> MR.THENUX ┃ HYPER ELITE444 ┃ SRILANKA<sup> LK</sup></font></b>
-<br/><br/><img src="images/mrthenux.jpg" width="40%"></p>
+<p align="center"><b><font size="50"> MR.THENUX ┃ HYPER ELITE444 ┃ SRILANKA<sup> LK</sup></font></b>
+<br/><br/><img src="images/mrthenux.jpg" width="50%"></p>
 
 	
 <!-- Code by Mr.Thenux -->
@@ -12,11 +12,10 @@
 </p>
 
 &nbsp;
-- 👨🏽‍💻 HELLO I'm MR.THENUX
-- 🤔 I’m looking for New Hacking method
-- ⚡️ My Hobby is Programming
+- 👨🏽‍💻 HELLO! I'm MR.THENUX.
+- ⚡️ My Hobby is Programming.
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: mrthenux@gmail.com
+- ✉️ Contact me: mrthenux@gmail.com
  
 - ![Profile views](https://gpvc.arturio.dev/HyperElite444)
 - [![GitHub followers](https://img.shields.io/github/followers/HyperElite444.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/HyperElite444?tab=followers)
@@ -30,6 +29,7 @@
 <p align="center">
 <a href="https://github.com/HyperElite444"><img title="THENUX MODz" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperElite444&layout=compact"></a></p>
 </p>
+<br/>
  <footer>
     <p><a href="https://github.com/HyperElite444" alt="MR.THENUX"> <img src="https://img.shields.io/badge/Author-Mr.Thenux-success?style=flat&logo=github" /> </a>  
 	<p><img src="https://img.shields.io/badge/POWERED BY-2b2e4d?style=for-the-badge&logoColor=ff0000"><img title="mrhyper404" src="https://img.shields.io/badge/TX TECHSHOW-black?style=for-the-badge&logo=Hacker"></a></p>
