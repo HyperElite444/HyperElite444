@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <p align="center"><b> MR.THENUX ┃ HYPER ELITE444 ┃ SRILANKA </b><br/><br/></p>
 	
