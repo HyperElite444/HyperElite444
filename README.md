@@ -33,16 +33,16 @@
 <p align="center">
 <a href="https://github.com/HyperElite444/TxBanner"><img title="TxBanner" src="https://github-readme-stats.vercel.app/api/pin/?username=HyperElite444&repo=TxBanner&theme=vision-friendly-dark"></a>
 </p><p align="center">
-<a href="https://github.com/HyperElite444/TxBanner_v2"><img title="TxBanner_v2" src="https://github-readme-stats.vercel.app/api/pin/?username=HyperElite444&repo=TxBanner_v2&theme=vision-friendly-dark"></a>
+<a href="https://github.com/HyperElite444/TxBanner_v2"><img title="TxBanner_v2" src="https://github-readme-stats.vercel.app/api/pin/?username=HyperElite444&repo=TxBanner_v2&theme=dark"></a>
 </p>
 <p align="center">
-<a href="https://github.com/HyperElite444/TxBackup-Restore"><img title="TxBackup-Restore" src="https://github-readme-stats.vercel.app/api/pin/?username=HyperElite444&repo=TxBackup-Restore&theme=vision-friendly-dark"></a>
+<a href="https://github.com/HyperElite444/TxBackup-Restore"><img title="TxBackup-Restore" src="https://github-readme-stats.vercel.app/api/pin/?username=HyperElite444&repo=TxBackup-Restore&theme=dark"></a>
 </p>
 <p align="center">
-<a href="https://github.com/HyperElite444/TxTermuxFormatVirus"><img title="TxTermuxFormatVirus" src="https://github-readme-stats.vercel.app/api/pin/?username=HyperElite444&repo=TxTermuxFormatVirus&theme=vision-friendly-dark"></a>
+<a href="https://github.com/HyperElite444/TxTermuxFormatVirus"><img title="TxTermuxFormatVirus" src="https://github-readme-stats.vercel.app/api/pin/?username=HyperElite444&repo=TxTermuxFormatVirus&theme=radical"></a>
 </p>
 <p align="center">
-<a href="https://github.com/HyperElite444/TX-WIN-CRD"><img title="TX-WIN-CRD" src="https://github-readme-stats.vercel.app/api/pin/?username=HyperElite444&repo=TX-WIN-CRD&theme=vision-friendly-dark"></a>
+<a href="https://github.com/HyperElite444/TX-WIN-CRD"><img title="TX-WIN-CRD" src="https://github-readme-stats.vercel.app/api/pin/?username=HyperElite444&repo=TX-WIN-CRD&theme=radical"></a>
 </p>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
  <footer>
