@@ -1,6 +1,6 @@
 <!-- Code by Mr.Thenux -->
 
-<p align="center"><b> MR.THENUX ┃ HYPER ELITE444 ┃ SRI LANKA<sup> LK</sup></b>
+<p align="center"><h3><legend> MR.THENUX ┃ HYPER ELITE444 ┃ SRI LANKA<sup> LK</sup></legend></h3>
 <br/><br/>
 	<img src="images/mrthenux.jpg" width="40%"></p>
 	
