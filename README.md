@@ -27,17 +27,17 @@
 <img width="60%" align="left" src="https://github-readme-stats.vercel.app/api?username=HyperElite444&&show_icons=true&title_color=e60000&icon_color=ff3333&text_color=ff8080&bg_color=000000">
 <p align ="right">
   <br/>
-	<img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-	<img width="10%"  src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
-	<img width="10%"  src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"
+	<img width="5%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+	<img width="5%"  src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
+	<img width="5%"  src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"
   <br/>
-	<img width="10%"  src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
-	<img width="10%"  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
-	<img width="10%"  src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+	<img width="5%"  src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+	<img width="5%"  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
+	<img width="5%"  src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
   <br />
-	<img width="10%"  src="https://cdn.iconscout.com/icon/free/png-64/nodejs-2-226035.png">
-	<img width="10%"  src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
-	<img width="10%"  src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
+	<img width="5%"  src="https://cdn.iconscout.com/icon/free/png-64/nodejs-2-226035.png">
+	<img width="5%"  src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
+	<img width="5%"  src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
   <br>
 </p>
 </p>
