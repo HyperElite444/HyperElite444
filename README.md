@@ -27,7 +27,7 @@
 <img width="60%" align="left" src="https://github-readme-stats.vercel.app/api?username=HyperElite444&&show_icons=true&title_color=e60000&icon_color=ff3333&text_color=ff8080&bg_color=000000">
 <p align ="right">
   <br/>
-
+<img width="10%" src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif">
 <br/>
 </p>
 </p>
