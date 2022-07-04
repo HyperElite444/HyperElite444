@@ -31,12 +31,12 @@
 	<img width="10%"  src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
 	<img width="10%"  src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"
   <br/>
-	<img width="10%"  src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-	<img width="10%"  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg">
+	<img width="10%"  src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+	<img width="10%"  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
 	<img width="10%"  src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
   <br />
 	<img width="10%"  src="https://cdn.iconscout.com/icon/free/png-64/nodejs-2-226035.png">
-	<img width="10%"  src="https://www.vectorlogo.zone/logos/php/php-vertical.svg">
+	<img width="10%"  src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
 	<img width="10%"  src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
   <br>
 </p>
