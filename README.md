@@ -27,23 +27,27 @@
 <img width="60%" align="left" src="https://github-readme-stats.vercel.app/api?username=HyperElite444&&show_icons=true&title_color=e60000&icon_color=ff3333&text_color=ff8080&bg_color=000000">
 <p align ="right">
   <br/>
-	<img width="5%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-	<img width="5%"  src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
-	<img width="5%"  src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"
+	<code><img width="5%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+	<code><img width="5%"  src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
+	<code><img width="5%"  src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"</code>
   <br/>
-	<img width="5%"  src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
-	<img width="5%"  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
-	<img width="5%"  src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+	<code><img width="5%"  src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+	<code><img width="5%"  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
+	<code><img width="5%"  src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
   <br />
-	<img width="5%"  src="https://cdn.iconscout.com/icon/free/png-64/nodejs-2-226035.png">
-	<img width="5%"  src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
-	<img width="5%"  src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
-  <br>
+	<code><img width="5%"  src="https://cdn.iconscout.com/icon/free/png-64/nodejs-2-226035.png"></code>
+	<code><img width="5%"  src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></code>
+	<code><img width="5%"  src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
+  <br/>
+	<code><img width="5%"  src="https://www.flaticon.com/premium-icon/microsoft_2504927?term=windows&page=1&position=7&page=1&position=7&related_id=2504927&origin=search"></code>
+	<code><img width="5%"  src="https://www.flaticon.com/free-icon/linux_518713?term=linux&page=1&position=5&page=1&position=5&related_id=518713&origin=search"></code>
+	<code><img width="5%"  src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png"></code>
+  <br/>
 </p>
 </p>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <p align="center">
-<a href="https://github.com/HyperElite444"><img title="HyperElite44" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperElite444&layout=compact"</a></p>
+<a href="https://github.com/HyperElite444"><img width="60%" title="HyperElite44" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperElite444&layout=compact"</a></p>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
  <footer>
     <p><a href="https://github.com/HyperElite444" alt="MR.THENUX"> <img src="https://img.shields.io/badge/Author-Mr.Thenux-success?style=flat&logo=github" /> </a>  
