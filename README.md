@@ -26,6 +26,8 @@
 <p align="center">
 <img width="60%" align="left" src="https://github-readme-stats.vercel.app/api?username=HyperElite444&&show_icons=true&title_color=e60000&icon_color=ff3333&text_color=ff8080&bg_color=000000">
 <p align ="right">
+  <br/>
+ <img width="https://www.vectorlogo.zone/logos/php/php-icon.svg">
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>
