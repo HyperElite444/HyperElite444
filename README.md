@@ -9,7 +9,9 @@
 <a href="https://www.github.com/HyperElite444"> <img title="GITHUB" src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github"></a>
 <a href="https://www.instagram.com/thenux_modz/"> <img title="INSTAGRAM" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram"></a>
 </p>
-	<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<br/>
+
 &nbsp;
 - 👨🏽‍💻 HELLO! I'm MR.THENUX.
 - ⚡️ My Hobby is Programming.
@@ -18,6 +20,8 @@
  
 - ![Profile views](https://gpvc.arturio.dev/HyperElite444)
 - [![GitHub followers](https://img.shields.io/github/followers/HyperElite444.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/HyperElite444?tab=followers)
+
+<br/>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <p align="center">
 <img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=HyperElite444&&show_icons=true&title_color=e60000&icon_color=ff3333&text_color=ff8080&bg_color=000000"></p>
