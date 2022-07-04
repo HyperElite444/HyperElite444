@@ -1,6 +1,6 @@
 <!-- Code by Mr.Thenux -->
 
-<h1> MR.THENUX - HYPER ELITE444 - SRI LANKA<sup> LK</sup></h1>
+ MR.THENUX - HYPER ELITE444 - SRI LANKA<sup> LK</sup>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <p align="center"><img src="images/mrthenux.jpg" width="45%"></p>
 <p align="center">
