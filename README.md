@@ -1,7 +1,7 @@
 <!-- Code by Mr.Thenux -->
 
-<p align="center"><h3>MR.THENUX - HYPER ELITE444 - SRI LANKA<sup> LK</sup></h3></p>
-<br/><br/>
+### MR.THENUX - HYPER ELITE444 - SRI LANKA<sup> LK</sup>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 	<p align="center"><img src="images/mrthenux.jpg" width="40%"></p>
 	
 <p align="center">
