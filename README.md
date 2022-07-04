@@ -24,7 +24,27 @@
 <br/>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <p align="center">
-<img width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=HyperElite444&&show_icons=true&title_color=e60000&icon_color=ff3333&text_color=ff8080&bg_color=000000"></p>
+<img width="60%" align="left" src="https://github-readme-stats.vercel.app/api?username=HyperElite444&&show_icons=true&title_color=e60000&icon_color=ff3333&text_color=ff8080&bg_color=000000">
+<p align ="right">
+  <br />
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"></code>
+  <br />  
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/php/php-vertical.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <br />
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <br />
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+  <br>
+</p>
+</p>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <p align="center">
 <a href="https://github.com/HyperElite444"><img title="HyperElite44" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperElite444&layout=compact"</a></p>
