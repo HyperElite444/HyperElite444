@@ -24,9 +24,7 @@
 <br/>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <p align="center">
-<img width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=HyperElite444&&show_icons=true&title_color=e60000&icon_color=ff3333&text_color=ff8080&bg_color=000000">
-</p>
-<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=HyperElite444&&show_icons=true&title_color=e60000&icon_color=ff3333&text_color=ff8080&bg_color=000000">
 <a href="https://github.com/HyperElite444"><img width="40%" title="HyperElite44" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperElite444&layout=compact"</a></p>
 	<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
