@@ -2,7 +2,7 @@
 
 <p align="center"><h3><legend>MR.THENUX ┃ HYPER ELITE444 ┃ SRI LANKA<sup> LK</sup></legend></h3></p>
 <br/><br/>
-	<p><img src="images/mrthenux.jpg" width="40%"></p>
+	<p align="center"><img src="images/mrthenux.jpg" width="40%"></p>
 	
 <p align="center">
 <a href="https://youtube.com/channel/UC2Nsn8q4MWE8pkDVsQcGsog"> <img title="YouTube" src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=Youtube"></a> 
