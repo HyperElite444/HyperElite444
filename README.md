@@ -37,11 +37,6 @@
   <br />
 	<code><img width="8%"  src="https://cdn.iconscout.com/icon/free/png-64/nodejs-2-226035.png"></code>
 	<code><img width="8%"  src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></code>
-	<code><img width="8%"  src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
-  <br/>
-	<code><img width="8%"  src="https://www.flaticon.com/premium-icon/microsoft_2504927?term=windows&page=1&position=7&page=1&position=7&related_id=2504927&origin=search"></code>
-	<code><img width="8%"  src="https://www.flaticon.com/free-icon/linux_518713?term=linux&page=1&position=5&page=1&position=5&related_id=518713&origin=search"></code>
-	<code><img width="8%"  src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png"></code>
   <br/>
 </p>
 </p>
