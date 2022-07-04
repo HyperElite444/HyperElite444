@@ -27,23 +27,17 @@
 <img width="60%" align="left" src="https://github-readme-stats.vercel.app/api?username=HyperElite444&&show_icons=true&title_color=e60000&icon_color=ff3333&text_color=ff8080&bg_color=000000">
 <p align ="right">
   <br/>
- <img width="10%" src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
+	<img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+	<img width="10%"  src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
+	<img width="10%"  src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"
+  <br/>
+	<img width="10%"  src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+	<img width="10%"  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg">
+	<img width="10%"  src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
   <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"></code>
-  <br />  
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/php/php-vertical.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+	<img width="10%"  src="https://cdn.iconscout.com/icon/free/png-64/nodejs-2-226035.png">
+	<img width="10%"  src="https://www.vectorlogo.zone/logos/php/php-vertical.svg">
+	<img width="10%"  src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
   <br>
 </p>
 </p>
