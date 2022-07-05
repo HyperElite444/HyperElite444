@@ -10,7 +10,6 @@
 </p>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <br/>
-
 &nbsp;
 - 👨🏽‍💻 HELLO! I'm MR.THENUX.
 - ⚡️ My Hobby is Programming.
@@ -19,7 +18,6 @@
  
 - ![Profile views](https://gpvc.arturio.dev/HyperElite444)
 - [![GitHub followers](https://img.shields.io/github/followers/HyperElite444.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/HyperElite444?tab=followers)
-
 <br/>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <p align="center">
