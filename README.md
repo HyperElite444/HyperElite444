@@ -9,7 +9,6 @@
 <a href="https://www.instagram.com/thenux_modz/"> <img title="INSTAGRAM" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram"></a>
 </p>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
 &nbsp;
 - 👨🏽‍💻 HELLO! I'm MR.THENUX.
 - ⚡️ My Hobby is Programming.
