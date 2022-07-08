@@ -29,7 +29,8 @@
 </p>
 <p align="center">
 <a href="https://github.com/HyperElite444/TxBanner"><img title="TxBanner" src="https://github-readme-stats.vercel.app/api/pin/?username=HyperElite444&repo=TxBanner&theme=vision-friendly-dark"></a>
-</p><p align="center">
+</p>
+<p align="center">
 <a href="https://github.com/HyperElite444/TxBanner_v2"><img title="TxBanner_v2" src="https://github-readme-stats.vercel.app/api/pin/?username=HyperElite444&repo=TxBanner_v2&theme=dark"></a>
 </p>
 <p align="center">
@@ -40,6 +41,12 @@
 </p>
 <p align="center">
 <a href="https://github.com/HyperElite444/TX-WIN-CRD"><img title="TX-WIN-CRD" src="https://github-readme-stats.vercel.app/api/pin/?username=HyperElite444&repo=TX-WIN-CRD&theme=radical"></a>
+</p>
+<p align="center">
+<a href="https://github.com/HyperElite444/TxPWGenerater"><img title="TxPWGenerater" src="https://github-readme-stats.vercel.app/api/pin/?username=HyperElite444&repo=TxPWGenerater&theme=highcontrast"></a>
+</p>
+<p align="center">
+<a href="https://github.com/HyperElite444/TxAreaCalculater"><img title="TxAreaCalculater" src="https://github-readme-stats.vercel.app/api/pin/?username=HyperElite444&repo=TxAreaCalculater&theme=highcontrast"></a>
 </p>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
  <footer>
