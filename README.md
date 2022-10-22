@@ -51,5 +51,5 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
  <footer>
     <p><a href="https://github.com/HyperElite444" alt="MR.THENUX"> <img src="https://img.shields.io/badge/Author-Mr.Thenux-success?style=flat&logo=github" /> </a>  
-	<p><a href="https://t.me/thenuxmods"><img src="https://img.shields.io/badge/POWERED BY-2b2e4d?style=for-the-badge&logoColor=ff0000"></a><a href="https://t.me/thenuxmods"><img src="https://img.shields.io/badge/TX TECHSHOW-black?style=for-the-badge&logo=Hacker"></a></p>
+	<p><img src="https://img.shields.io/badge/POWERED BY-2b2e4d?style=for-the-badge&logoColor=ff0000"></a><a href="https://t.me/thenuxmods"><img src="https://img.shields.io/badge/TECHNET LK-black?style=for-the-badge&logo=Hacker"></a></p>
 </footer>
